@@ -1,0 +1,10 @@
+
+Files:
+
+    dsmts-001-01.xml
+    dsmts-002-01.xml
+    dsmts-003-01.xml
+
+are part of the SBML discrete stochatic models test suite.
+
+Evans, T.W., Gillespie, C.S. and Wilkinson, D.J., 2008. The SBML discrete stochastic models test suite. Bioinformatics, 24(2), pp.285-286.

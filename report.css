@@ -1,0 +1,76 @@
+
+body {
+	background: #003d4c;
+	color: #fff;
+	font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
+	font-size:90%;
+	margin: 0;
+}
+
+a {
+	color: #003d4c;	
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+table {
+	border-right: 0;
+	clear: both;
+	color: #333;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	border-spacing: 0;
+    border-collapse: collapse;
+}
+
+table.view-table {
+	background: #f5f5f5;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: smaller;
+}
+
+th {
+	border: 0;
+	border-bottom: 2px solid #555;
+	text-align: left;
+	padding: 4px;
+}
+
+table tr td {
+	padding: 6px;
+	text-align: left;
+	vertical-align: top;
+	border-bottom: 1px solid #ddd;
+}
+
+table tr td.row-caption {
+	text-align: center;
+	vertical-align: middle;
+	font-size: larger;
+	font-weight: bold;
+	width: 8em;
+}
+
+table tr td a {
+	font-weight: normal;
+}
+
+table tr:nth-child(odd) td {
+	background: #f5f5f5;
+}
+
+table tr:nth-child(even) td {
+	background: #fff;
+}
+
+.plot {
+	height: 300px;
+	width: auto;
+}

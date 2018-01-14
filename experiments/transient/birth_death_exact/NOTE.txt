@@ -1,0 +1,4 @@
+
+The exact (up to machine precision) probabilities are computed according to [1].
+
+[1] Jahnke, T. and Huisinga, W., 2007. Solving the chemical master equation for monomolecular reaction systems analytically. Journal of mathematical biology, 54(1), pp.1-26.
